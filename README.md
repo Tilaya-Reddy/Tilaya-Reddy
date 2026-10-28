@@ -10,17 +10,15 @@ Currently looking for internships or junior developer roles in Information Techn
 
 ## What I work with
 
-<img src="images/php.jpg" alt="PHP" height="28"> <img src="images/mysql.jpg" alt="MySQL" height="28"> <img src="images/javascript.jpg" alt="JavaScript" height="28"> <img src="images/html5.jpg" alt="HTML5" height="28"> <img src="images/css3.jpg" alt="CSS3" height="28"> <img src="images/cpp.jpg" alt="C++" height="28"> <img src="images/git.jpg" alt="Git" height="28">
+**PHP** · **MySQL** · **JavaScript** · **HTML5** · **CSS3** · **C++** · **Git**
 
 ---
 
 ## Featured projects
 
-| Project | What it is | Stack |
-
 | EventPro - (https://github.com/Tilaya-Reddy/EventPro-Online-Event-Management-System) | 
 
-Event management web app with registration/login, event CRUD, live search and private messaging. Built with no frameworks and a strong focus on security: PDO prepared statements, CSRF tokens, hashed passwords, validated file uploads. | PHP · MySQL (PDO) · JavaScript |
+Event management web app with registration/login, event CRUD, live search, and private messaging. Built with no frameworks and a strong focus on security: PDO prepared statements, CSRF tokens, hashed passwords, validated file uploads. | PHP · MySQL (PDO) · JavaScript |
 
 | NeoVerse: AI City Survival System - (https://github.com/Tilaya-Reddy/NeoVerse-AI-City-Survival-System) | 
 
@@ -37,6 +35,6 @@ Company website for a firearm and tactical training business. | HTML · CSS |
 
 ## Get in touch
 
-<a href="https://www.linkedin.com/in/tilaya-reddy-038314325/"><img src="images/linkedin.jpg" alt="LinkedIn" height="28"></a>
+[LinkedIn](https://www.linkedin.com/in/tilaya-reddy-038314325/).
 
 
